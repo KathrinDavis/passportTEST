@@ -1,0 +1,5 @@
+
+{
+  "dbUri": "mongodb://localhost/nbaStats",
+  "jwtSecret": "jwtSecret"
+}
